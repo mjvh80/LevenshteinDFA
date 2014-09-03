@@ -43,4 +43,4 @@ Running
     
 Here `wordCps` is a list of words that have been pre-computed as "codepoints".
 
-The above executes in roughly 560 microseconds for a word list of 36,000 entries (averaged with over `numIterations = 10000`).
+The above executes in roughly 560 microseconds for a word list of 36,000 entries (averaged with over `numIterations = 10000`). This will depend on input but should give some indication of performance.
